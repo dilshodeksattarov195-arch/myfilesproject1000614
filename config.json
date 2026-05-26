@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "shippingdync",
+        "uuid": 1729638,
+        "checksum": "8v1v2z"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
